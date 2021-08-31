@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2be4c0d3.chunk.css",
+    "main.js": "/static/js/main.343a5c1d.chunk.js",
+    "main.js.map": "/static/js/main.343a5c1d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ba82e6c7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ba82e6c7.js.map",
+    "static/css/2.0ccb862f.chunk.css": "/static/css/2.0ccb862f.chunk.css",
+    "static/js/2.02adbc35.chunk.js": "/static/js/2.02adbc35.chunk.js",
+    "static/js/2.02adbc35.chunk.js.map": "/static/js/2.02adbc35.chunk.js.map",
+    "static/js/3.b4a87d4c.chunk.js": "/static/js/3.b4a87d4c.chunk.js",
+    "static/js/3.b4a87d4c.chunk.js.map": "/static/js/3.b4a87d4c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.0ccb862f.chunk.css.map": "/static/css/2.0ccb862f.chunk.css.map",
+    "static/css/main.2be4c0d3.chunk.css.map": "/static/css/main.2be4c0d3.chunk.css.map",
+    "static/js/2.02adbc35.chunk.js.LICENSE.txt": "/static/js/2.02adbc35.chunk.js.LICENSE.txt",
+    "static/media/civil-engineering 1.0b05feab.jpg": "/static/media/civil-engineering 1.0b05feab.jpg",
+    "static/media/civil-engineering 2.cbf9b271.jpg": "/static/media/civil-engineering 2.cbf9b271.jpg",
+    "static/media/civil-engineering.32c3270e.jpg": "/static/media/civil-engineering.32c3270e.jpg",
+    "static/media/construction.e56734ca.jpg": "/static/media/construction.e56734ca.jpg",
+    "static/media/construction1.fc5f3343.jpg": "/static/media/construction1.fc5f3343.jpg",
+    "static/media/construction2.038fcd7f.jpg": "/static/media/construction2.038fcd7f.jpg",
+    "static/media/construction3.5d919540.jpg": "/static/media/construction3.5d919540.jpg",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba82e6c7.js",
+    "static/css/2.0ccb862f.chunk.css",
+    "static/js/2.02adbc35.chunk.js",
+    "static/css/main.2be4c0d3.chunk.css",
+    "static/js/main.343a5c1d.chunk.js"
+  ]
+}
